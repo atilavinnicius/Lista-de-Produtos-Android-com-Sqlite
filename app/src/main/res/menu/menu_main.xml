@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/buscar_produto"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="Buscar..."
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="ifRoom"></item>
+    <item
+        android:id="@+id/menu_cad_produto"
+        android:icon="@drawable/ic_add_produto24"
+        android:title="@string/lbl_menu_cad_produto"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_cad_categoria"
+        android:icon="@drawable/ic_categoria_24"
+        android:title="@string/lbl_menu_cad_categoria"
+        app:showAsAction="never|withText" />
+</menu>

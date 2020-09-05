@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ListaDeComprasSqLite</string>
+    <string name="cadproduto">Cadastro de Produto</string>
+    <string name="produto">Produto</string>
+    <string name="quantidade">Quantidade</string>
+    <string name="categoria">Categoria</string>
+    <string name="cadcategorias">Cadastro de Categoria</string>
+    <string name="nome">Nome</string>
+    <string name="preco">Preço</string>
+    <string name="salvar">CADASTRAR</string>
+    <string name="cancelar">CANCELAR</string>
+    <string name="limpar">LIMPAR</string>
+    <string name="totalemcompras">Total de itens</string>
+    <string name="lbl_menu_cad_categoria">Cadastrar Categoria</string>
+    <string name="lbl_menu_cad_produto">Cadastrar Produto</string>
+    <string name="atualizae">ATUALIZAR</string>
+</resources>
